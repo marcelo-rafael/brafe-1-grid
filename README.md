@@ -5,6 +5,6 @@ Serão criados 3 projetos diferentes durante o curso. Cada um dos projetos será
 A primeira da forma mais pura possível, definindo width’s e height’s, a segunda com um sistema de grid pré definido, 
 a terceira com o Flexbox e por último usando o Bootstrap.
 
-Projeto prático Brafé 1 puro feito em css puro pelo site [Origamid](https://www.origamid.com/curso/css-avancado-posicionamento).
+Projeto prático Brafé 1 grid feito com um sistema de grid pelo site [Origamid](https://www.origamid.com/curso/css-avancado-posicionamento).
 
-## Link do Projeto: [Brafé 1 puro](https://marcelo-rafael.github.io/css-avancado-posicionamento/)
+## Link do Projeto: [Brafé 1 grid](https://marcelo-rafael.github.io/brafe-1-grid/)
