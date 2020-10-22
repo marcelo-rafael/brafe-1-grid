@@ -37,7 +37,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Caravan 🚧
+	🚧  Brafé 🚧
 </h4>
 <p align="center">Deployed <a href="https://marcelo-rafael.github.io/css-grid-brafe-1/">here</a>.</p>
 
